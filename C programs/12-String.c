@@ -6,7 +6,7 @@ int main()
     int i=0;
     while(str[i]!='\n')
     {
-        printf("%c",str[i]);
+        // printf("%c",str[i]);
         i++;
     }
     printf("\n %d",i);
